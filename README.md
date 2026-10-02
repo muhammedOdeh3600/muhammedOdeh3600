@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammed 👋
 
-I'm an IT Engineering student passionate about backend development, Linux environments, and network architecture. Currently building web applications and APIs.
+I'm an IT Engineering student, studying in Damascus University, passionate about backend development, Linux environments, and network architecture. Currently building web applications and APIs.
 
 ---
 
