@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Muhammed 👋
 
-<!--
-**muhammedOdeh3600/muhammedOdeh3600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT Engineering student passionate about backend development, Linux environments, and network architecture. Currently building web applications and APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+- 🛠️ **Currently Learning:** ASP.NET Core & C# Backend Development
+- 🐧 **Interests:** Linux System Administration & Networking
+- 🎯 **Goals:** Building scalable web APIs and mastering backend systems
+
+---
+
+### 🧰 Tech Stack & Tools
+
+**Languages & Frameworks:**
+- C# | ASP.NET Core
+- C++ | Python
+
+**Systems & Tools:**
+- Linux (Bash, CLI, System Setup)
+- Networking Fundamentals
+- Git & GitHub
+
+---
+
+📫 *Open to collaborating on open-source C#/.NET, backend projects and Linux CLI tools*
