@@ -17,6 +17,11 @@ I'm an IT Engineering student, studying in Damascus University, passionate about
 - C# | ASP.NET Core
 - C++ | Python
 
+**Systems & Tools:**
+- Linux (Bash, CLI, System Setup)
+- Networking Fundamentals
+- Git & GitHub
+
 ---
 
 ### 🤝 Volunteer Work & Tech Support
@@ -25,12 +30,6 @@ I'm an IT Engineering student, studying in Damascus University, passionate about
 - Diagnose and resolve hardware/software issues and system boot failures.
 - Guide students through OS installations and setting up local development environments.
 
----
-
-**Systems & Tools:**
-- Linux (Bash, CLI, System Setup)
-- Networking Fundamentals
-- Git & GitHub
 
 ---
 
