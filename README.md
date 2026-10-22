@@ -17,6 +17,16 @@ I'm an IT Engineering student, studying in Damascus University, passionate about
 - C# | ASP.NET Core
 - C++ | Python
 
+---
+
+### 🤝 Volunteer Work & Tech Support
+**Kernel Crew @ Damascus University | Technical Support Volunteer**
+- Provide free, hands-on technical assistance to university peers.
+- Diagnose and resolve hardware/software issues and system boot failures.
+- Guide students through OS installations and setting up local development environments.
+
+---
+
 **Systems & Tools:**
 - Linux (Bash, CLI, System Setup)
 - Networking Fundamentals
