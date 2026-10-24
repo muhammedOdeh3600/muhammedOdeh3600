@@ -25,7 +25,7 @@ I'm an IT Engineering student, studying in Damascus University, passionate about
 ---
 
 ### 🤝 Volunteer Work & Tech Support
-**Kernel Crew @ Damascus University | Technical Support Volunteer**
+**[Kernel Crew](https://kernelcrew.cloud) @ Damascus University | Technical Support Volunteer**
 - Provide free, hands-on technical assistance to university peers.
 - Diagnose and resolve hardware/software issues and system boot failures.
 - Guide students through OS installations and setting up local development environments.
