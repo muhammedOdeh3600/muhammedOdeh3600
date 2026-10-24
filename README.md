@@ -34,3 +34,8 @@ I'm an IT Engineering student, studying in Damascus University, passionate about
 ---
 
 📫 *Open to collaborating on open-source C#/.NET, backend projects and Linux CLI tools*
+
+---
+
+*Contact Me:*
+*[LinkedIn](https://www.linkedin.com/in/muhammed-odeh-9464323a7?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
